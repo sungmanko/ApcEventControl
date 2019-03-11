@@ -1,0 +1,19 @@
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\bin\Debug\ApcEventControl.exe
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\bin\Debug\ApcEventControl.pdb
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\obj\Debug\ApcEventControl.csprojResolveAssemblyReference.cache
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\obj\Debug\ApcEventControl.Form1.resources
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\obj\Debug\ApcEventControl.Form2.resources
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\obj\Debug\ApcEventControl.Properties.Resources.resources
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\obj\Debug\ApcEventControl.csproj.GenerateResource.Cache
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\obj\Debug\ApcEventControl.exe
+C:\Users\rc902698\AppData\Local\Temporary Projects\ApcEventControl\obj\Debug\ApcEventControl.pdb
+D:\workspace\Sample\ApcEventControl\ApcEventControl\obj\Debug\ApcEventControl.exe
+D:\workspace\Sample\ApcEventControl\ApcEventControl\obj\Debug\ApcEventControl.pdb
+D:\workspace\Sample\ApcEventControl\ApcEventControl\bin\Debug\ApcEventControl.exe
+D:\workspace\Sample\ApcEventControl\ApcEventControl\bin\Debug\ApcEventControl.pdb
+D:\workspace\Sample\ApcEventControl\ApcEventControl\obj\Debug\ApcEventControl.Form1.resources
+D:\workspace\Sample\ApcEventControl\ApcEventControl\obj\Debug\ApcEventControl.Form2.resources
+D:\workspace\Sample\ApcEventControl\ApcEventControl\obj\Debug\ApcEventControl.Properties.Resources.resources
+D:\workspace\Sample\ApcEventControl\ApcEventControl\obj\Debug\ApcEventControl.csproj.GenerateResource.Cache
+D:\workspace\Sample\ApcEventControl\ApcEventControl\bin\Debug\ApcEventControl.exe.config
+D:\workspace\Sample\ApcEventControl\ApcEventControl\obj\Debug\ApcEventControl.csprojResolveAssemblyReference.cache
